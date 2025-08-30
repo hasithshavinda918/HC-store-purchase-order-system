@@ -53,7 +53,7 @@ A comprehensive, multilingual Purchase Order Management System built with PHP, M
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/hc-store-po-management.git
+git clone https://github.com/hasithshavinda918/hc-store-po-management.git
 cd hc-store-po-management
 ```
 
