@@ -1,0 +1,60 @@
+# PHP specific
+*.log
+*.tmp
+*.temp
+*~
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# XAMPP/Local development
+/logs/
+/tmp/
+*.pid
+
+# Database connection (if contains sensitive info)
+# Uncomment if your db_connection.php contains passwords
+# includes/db_connection.php
+
+# Uploaded files (if any)
+/uploads/
+/files/
+
+# Backup files
+*.backup
+*.bak
+*.old
+
+# Composer (if used)
+/vendor/
+composer.lock
+
+# Node modules (if any JavaScript build tools used)
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache directories
+/cache/
+/storage/cache/
+
+# Session files
+/sessions/
